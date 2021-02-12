@@ -18,7 +18,7 @@
     "react-native": "*"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/angelolev"
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react-native",
