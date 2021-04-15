@@ -18,6 +18,7 @@ export interface PhoneInputProps {
   placeholder?: string;
   onChangeText?: (text: string) => void;
   onChangeFormattedText?: (text: string) => void;
+  onBlur?: () => void;
   renderDropdownImage?: JSX.Element;
   containerStyle?: StyleProp<ViewStyle>;
   textContainerStyle?: StyleProp<ViewStyle>;
